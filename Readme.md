@@ -9,4 +9,3 @@
 - listing, updating, deleting data
 - learning layered architecture
 - Spring boot framework and annotation
-- keep practice to learn
